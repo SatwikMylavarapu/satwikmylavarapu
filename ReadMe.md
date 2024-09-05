@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am currently persuing masters in data science at university at buffalo<br>I have expertise in machine learning algorithms, predictive learning, statistical data mining, calculus, probability, statistics, data base model queries, information retrieval data science and data visualization tools, python, sql, R, power bi, Tableau, AWS, Google cloud, big query, postgresql, many other python libraries like scikitlearn, pandas, keras, tensorflow, streamlit, Flask, langchain, LLM'S, huggingface, data science applications, data analysis.<br><br>I am really into data scienc3 and am open to learning new tools and technologies everyday, I am looking for a Data science full time job as of now and I will be graduating in December 2024.<br>I like to play cricket, football, basketball. I also like mind games like chess and some borad games I occasionally enjoy playing poker.<br><br>I like collabarating with people while working on projects or any other task for that matter. <br><br>I am very excited about my next step in life and I really like adventures and going on road trips.<br> 
+I am currently pursuing a Master's degree in Data Science at the University at Buffalo, expected to graduate in December 2024. My expertise spans machine learning algorithms, predictive modeling, statistical data mining, and data analysis. I have a strong foundation in calculus, probability, and statistics, along with practical experience in database queries, information retrieval, and data science applications.
+
+I am proficient in Python, R, SQL, Power BI, Tableau, and cloud platforms like AWS and Google Cloud. Additionally, I have hands-on experience with tools such as PostgreSQL, BigQuery, and various Python libraries, including scikit-learn, pandas, Keras, TensorFlow, Streamlit, Flask, and LangChain. I am deeply interested in large language models (LLMs), Hugging Face, and other cutting-edge technologies that drive innovation in data science and AI.
+
+I am passionate about continuously learning new tools and technologies to enhance my skill set and stay updated in the fast-evolving field of data science. I am actively seeking full-time opportunities in data science where I can apply my knowledge and grow professionally.
+
+In my free time, I enjoy playing sports like football, and basketball, as well as challenging myself with mind games like chess and other board games. I’m always up for collaborative projects, as I believe teamwork fosters creativity and success.
+
+I’m excited about the next steps in my career journey, and I have a passion for adventure—whether that means exploring new data challenges or going on road trips!
 
 
 ## 🌐 Socials:
@@ -18,4 +26,3 @@ I am currently persuing masters in data science at university at buffalo<br>I ha
 ---
 [![](https://visitcount.itsvg.in/api?id=SatwikMylavarapu&icon=5&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

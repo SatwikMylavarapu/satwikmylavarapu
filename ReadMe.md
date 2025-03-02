@@ -1,14 +1,11 @@
 # 💫 About Me:
-I am currently pursuing a Master's degree in Data Science at the University at Buffalo, expected to graduate in December 2024. My expertise spans machine learning algorithms, predictive modeling, statistical data mining, and data analysis. I have a strong foundation in calculus, probability, and statistics, along with practical experience in database queries, information retrieval, and data science applications.
+I am a Data Scientist with expertise in machine learning, predictive modeling, statistical data mining, and data analysis. I hold a Master’s degree in Data Science from the University at Buffalo and have a strong foundation in calculus, probability, and statistics, along with hands-on experience in database queries, information retrieval, and real-world data applications.
 
-I am proficient in Python, R, SQL, Power BI, Tableau, and cloud platforms like AWS and Google Cloud. Additionally, I have hands-on experience with tools such as PostgreSQL, BigQuery, and various Python libraries, including scikit-learn, pandas, Keras, TensorFlow, Streamlit, Flask, and LangChain. I am deeply interested in large language models (LLMs), Hugging Face, and other cutting-edge technologies that drive innovation in data science and AI.
+My technical skills include Python, R, SQL, Power BI, Tableau, and cloud platforms like AWS and Google Cloud. I have worked extensively with PostgreSQL, BigQuery, and Python libraries such as scikit-learn, pandas, TensorFlow, Keras, Flask, Streamlit, and LangChain. I am particularly interested in large language models (LLMs), Hugging Face, and cutting-edge AI advancements.
 
-I am passionate about continuously learning new tools and technologies to enhance my skill set and stay updated in the fast-evolving field of data science. I am actively seeking full-time opportunities in data science where I can apply my knowledge and grow professionally.
+I am passionate about solving complex data challenges, optimizing ML workflows, and continuously learning new tools and technologies. Currently, I am seeking full-time opportunities in data science where I can contribute my skills and grow professionally.
 
-In my free time, I enjoy playing sports like football, and basketball, as well as challenging myself with mind games like chess and other board games. I’m always up for collaborative projects, as I believe teamwork fosters creativity and success.
-
-I’m excited about the next steps in my career journey, and I have a passion for adventure—whether that means exploring new data challenges or going on road trips!
-
+Outside of work, I enjoy playing football and basketball, as well as engaging in strategic mind games like chess and board games. I thrive in collaborative environments and believe teamwork fosters creativity and success. When I’m not diving into data, I love going on road trips and exploring new adventures.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satwik-mylavarapu/)

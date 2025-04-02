@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a Data Scientist with expertise in machine learning, predictive modeling, statistical data mining, and data analysis. I hold a Master’s degree in Data Science from the University at Buffalo and have a strong foundation in calculus, probability, and statistics, along with hands-on experience in database queries, information retrieval, and real-world data applications.
 
 My technical skills include Python, R, SQL, Power BI, Tableau, and cloud platforms like AWS and Google Cloud. I have worked extensively with PostgreSQL, BigQuery, and Python libraries such as scikit-learn, pandas, TensorFlow, Keras, Flask, Streamlit, and LangChain. I am particularly interested in large language models (LLMs), Hugging Face, and cutting-edge AI advancements.
